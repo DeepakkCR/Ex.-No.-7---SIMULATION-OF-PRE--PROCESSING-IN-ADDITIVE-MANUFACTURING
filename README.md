@@ -47,7 +47,7 @@
 ![Screenshot 2025-05-02 162312](https://github.com/user-attachments/assets/a06c53df-ffa8-4dde-87d7-a436e571f1dc)
 
 ### Name: Abhinav CS
-### Register Number: 212224040002
+### Register Number: 212224040005
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
